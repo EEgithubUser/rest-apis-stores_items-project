@@ -1,6 +1,6 @@
 .venv
 __pycache__
-instance
 .DS_Store
 *.pyc
+instance backup
 
